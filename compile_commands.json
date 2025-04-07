@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Iinclude",
+      "-o",
+      "obj/window.o",
+      "src/window.c"
+    ],
+    "directory": "/home/kennethpabillo/Documents/Different Machine/PingPong",
+    "file": "/home/kennethpabillo/Documents/Different Machine/PingPong/src/window.c",
+    "output": "/home/kennethpabillo/Documents/Different Machine/PingPong/obj/window.o"
+  }
+]
